@@ -1,1 +1,37 @@
-# meu-site-biografico
+<!DOCTYPE html>
+<html lang ="pt-BR">
+<head>
+<title>Meu site biográfico</title>
+</head>
+  <body>
+  <h1>Olá Usuário!</h1>
+  <h2>Seja bem vindo ao meu site biográfico!</h2>
+    <hr>
+  <p>Daqui pra frente prepare-se para acompanhar <b>uma história emocionante ou não.</b></p>
+  <p>E visando principalmente utilizar <b>tudo</b> que foi passado em sala,especificamente HTML.</p>
+    <hr>
+  <h1>Primeiramente <br>quem sou <u>eu</u>?</h1>
+    <p>Me chamo Matheus,tenho 15 anos,sou cristão,jogo basquete,amo literatura teológica,gosto de filmes e seríes de ficçao cientifica/fantasia,e alguns animes de aventura e romance.</p>
+    <hr>
+    <h1>Minha infância.</h2>
+    <p>Vive e cresci durante 6 anos da minha vida em General Sampaio.Desde sempre tive uma personalidade agitada,curiosa questinadora e muito conversadora.Durante minha infância ja demonstrava um certo interesse por coisas que gosto até hoje(tecnologia,jogos,música etc).E se hoje sou apaixoando na TI,é graças as os jogos e influenciadores de jogos que me rodeavam na época.</p>
+    <hr>
+    <h1>Eu atualmente.</h1>
+   <p>Atualmente continuo com meus estudos teologicos,da base tecnica e comun,e sempre buscando melhorar em cada um desses.Tenho como hobbies o basquete,leitura,música,percussão e um pouco de estudos extra curriculares.</p>
+    <hr>
+    <h1>Resumo dos meus interesses.</h1>
+    Música<br>
+    Tecnologia<br>
+    Esportes<br>
+    Livros<br>
+    Jogos<br>
+    Teologia/religião<br>
+    Filmes
+    <hr>
+    <h1>Meu futuro.</h1>
+    <p>Em um futuro próximo me vejo ingrresado no mercado de trabalho na areá da TI como desenvolvedor de jogos ou emgenheiro de software,na minha própria empresa ou em uma   outra empresa.</p>
+  </body>
+  
+  
+
+  
